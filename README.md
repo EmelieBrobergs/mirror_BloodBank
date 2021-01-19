@@ -1,11 +1,11 @@
 # BloodBank
-BloodBank GroupProjekt
+BloodBank
 
-Kod från grupparbete i kursen OOP C# - grund
+Code created in group work in the course: OOP C# - basic
 
-Skapad av Emelie, Rikard, Mattias, Irene
+Created by: Emelie, Rikard, Mattias, Irene
 
-Arbetsmetod: suttit på samma fysiska plats och använt Live Share.
+Working method: Met in a physical location and work with Live Share
 
 25/11 2020
 
